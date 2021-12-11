@@ -1,1 +1,4 @@
 /target
+Cargo.lock
+poem.txt
+.vscode/tasks.json
